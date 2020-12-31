@@ -339,9 +339,12 @@
         #divBox{
           width: 80%;
           top: 4%;
-          left: 2%;
+          left: 8%;
           height: 90%;
         }
+       #web2img{
+       height:65%;
+       }
        
       }
       @media only screen and(orientation:landscape /*أفقي*/ ) and(max-width:500px){
